@@ -1,55 +1,53 @@
 <div align="center">
+  <h1>DACDA UNIFEI</h1>
+  <p><strong>Diretório Acadêmico de Ciência de Dados Aplicada</strong></p>
+  <p>Representação estudantil · integração acadêmica · transparência</p>
 
-# DACDA UNIFEI
-
-**Diretório Acadêmico de Ciência de Dados Aplicada · UNIFEI**
-
-Representação estudantil, integração acadêmica e construção coletiva.
-
-<p>
-  <a href="https://github.com/dacda-unifei">
-    <img src="https://img.shields.io/badge/Organiza%C3%A7%C3%A3o%20GitHub-dacda--unifei-181717?style=flat-square&logo=github&logoColor=white" alt="Abrir organização DACDA UNIFEI no GitHub">
-  </a>
-  <a href="https://github.com/dacda-unifei/dacda-documentos">
-    <img src="https://img.shields.io/badge/Documentos%20Institucionais-Reposit%C3%B3rio%20P%C3%BAblico-2457A6?style=flat-square&logo=readme&logoColor=white" alt="Acessar repositório de documentos institucionais do DACDA UNIFEI">
-  </a>
-</p>
-
+  <p>
+    <a href="https://github.com/dacda-unifei/dacda-documentos">
+      <img src="https://img.shields.io/badge/Documentos-institucionais-2457A6?style=for-the-badge&logo=github&logoColor=white" alt="Documentos institucionais">
+    </a>
+    <a href="https://github.com/dacda-unifei">
+      <img src="https://img.shields.io/badge/GitHub-dacda--unifei-181717?style=for-the-badge&logo=github&logoColor=white" alt="Organização DACDA UNIFEI no GitHub">
+    </a>
+  </p>
 </div>
 
 ---
 
-## Proposta do DACDA
+## Sobre o DACDA
 
-O **DACDA UNIFEI** atua como espaço de representação e articulação dos estudantes de Ciência de Dados Aplicada, promovendo diálogo, transparência e participação da comunidade acadêmica.
+O **Diretório Acadêmico de Ciência de Dados Aplicada da UNIFEI** representa os estudantes do curso e atua na construção de uma comunidade acadêmica mais participativa, organizada e conectada.
 
-## Áreas de atuação
+Este espaço reúne documentos, projetos e informações públicas do diretório.
 
-- **Representação estudantil:** escuta ativa e diálogo com a coordenação e demais instâncias institucionais.
-- **Transparência institucional:** organização e publicação de documentos e encaminhamentos públicos.
-- **Integração acadêmica:** incentivo a iniciativas que conectem estudantes, turmas e projetos.
-- **Colaboração comunitária:** apoio a contribuições coletivas para melhoria contínua do curso e do ambiente acadêmico.
+## O que fazemos
 
-## Links úteis
+| Frente | Objetivo |
+| --- | --- |
+| **Representação** | Levar demandas, ideias e propostas dos estudantes aos espaços institucionais. |
+| **Transparência** | Publicar documentos, decisões e materiais de interesse da comunidade acadêmica. |
+| **Integração** | Aproximar estudantes de diferentes períodos e incentivar atividades coletivas. |
+| **Colaboração** | Criar um ambiente aberto para sugestões, iniciativas e melhoria contínua do curso. |
 
-- [Organização DACDA UNIFEI no GitHub](https://github.com/dacda-unifei)
-- [Repositório de documentos institucionais](https://github.com/dacda-unifei/dacda-documentos)
+## Repositórios
 
-## Projetos e repositórios em destaque
+### 📚 [`dacda-documentos`](https://github.com/dacda-unifei/dacda-documentos)
 
-| Repositório | Finalidade | Status |
-|:--|:--|:--:|
-| [`dacda-documentos`](https://github.com/dacda-unifei/dacda-documentos) | Documentos institucionais públicos (estatuto, atas, regimentos e materiais relacionados) | Ativo |
-| *(em definição)* | Próximos repositórios de projetos, eventos e iniciativas acadêmicas | Em planejamento |
+Documentos institucionais públicos, incluindo estatuto, atas, regimentos e materiais relacionados ao DACDA.
 
-## Como participar e entrar em contato
+## Como acompanhar
 
-- Acompanhe as atualizações nos repositórios da organização.
-- Contribua com sugestões e melhorias por meio de issues e discussões, quando disponíveis em cada repositório.
-- Para contato institucional direto: **canal oficial em confirmação** *(placeholder; requer validação humana)*.
+- Consulte os [documentos institucionais](https://github.com/dacda-unifei/dacda-documentos).
+- Acompanhe os repositórios públicos desta organização.
+- Abra uma issue no repositório adequado para registrar uma sugestão, dúvida ou proposta.
+
+## Princípios
+
+**Escuta ativa · diálogo aberto · responsabilidade · transparência · construção coletiva**
 
 ---
 
 <div align="center">
-  <sub>DACDA UNIFEI · Perfil institucional público no GitHub</sub>
+  <sub>DACDA UNIFEI · Ciência de Dados Aplicada</sub>
 </div>
