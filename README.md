@@ -1,25 +1,25 @@
 <div align="center">
-  <h1>DACDA UNIFEI</h1>
-  <p><strong>Diretório Acadêmico de Ciência de Dados Aplicada</strong></p>
+  <h1>CACDA UNIFEI</h1>
+  <p><strong>Centro Acadêmico de Ciência de Dados Aplicada</strong></p>
   <p>Representação estudantil · integração acadêmica · transparência</p>
 
   <p>
-    <a href="https://github.com/dacda-unifei/dacda-documentos">
+    <a href="https://github.com/cacda-unifei/cacda-documentos">
       <img src="https://img.shields.io/badge/Documentos-institucionais-2457A6?style=for-the-badge&logo=github&logoColor=white" alt="Documentos institucionais">
     </a>
-    <a href="https://github.com/dacda-unifei">
-      <img src="https://img.shields.io/badge/GitHub-dacda--unifei-181717?style=for-the-badge&logo=github&logoColor=white" alt="Organização DACDA UNIFEI no GitHub">
+    <a href="https://github.com/cacda-unifei">
+      <img src="https://img.shields.io/badge/GitHub-cacda--unifei-181717?style=for-the-badge&logo=github&logoColor=white" alt="Organização CACDA UNIFEI no GitHub">
     </a>
   </p>
 </div>
 
 ---
 
-## Sobre o DACDA
+## Sobre o CACDA
 
-O **Diretório Acadêmico de Ciência de Dados Aplicada da UNIFEI** representa os estudantes do curso e atua na construção de uma comunidade acadêmica mais participativa, organizada e conectada.
+O **Centro Acadêmico de Ciência de Dados Aplicada da UNIFEI** representa os estudantes do curso e atua na construção de uma comunidade acadêmica mais participativa, organizada e conectada.
 
-Este espaço reúne documentos, projetos e informações públicas do diretório.
+Este espaço reúne documentos, projetos e informações públicas do centro acadêmico.
 
 ## O que fazemos
 
@@ -32,13 +32,13 @@ Este espaço reúne documentos, projetos e informações públicas do diretório
 
 ## Repositórios
 
-### 📚 [`dacda-documentos`](https://github.com/dacda-unifei/dacda-documentos)
+### 📚 [`cacda-documentos`](https://github.com/cacda-unifei/cacda-documentos)
 
-Documentos institucionais públicos, incluindo estatuto, atas, regimentos e materiais relacionados ao DACDA.
+Documentos institucionais públicos, incluindo estatuto, atas, regimentos e materiais relacionados ao CACDA.
 
 ## Como acompanhar
 
-- Consulte os [documentos institucionais](https://github.com/dacda-unifei/dacda-documentos).
+- Consulte os [documentos institucionais](https://github.com/cacda-unifei/cacda-documentos).
 - Acompanhe os repositórios públicos desta organização.
 - Abra uma issue no repositório adequado para registrar uma sugestão, dúvida ou proposta.
 
@@ -49,5 +49,5 @@ Documentos institucionais públicos, incluindo estatuto, atas, regimentos e mate
 ---
 
 <div align="center">
-  <sub>DACDA UNIFEI · Ciência de Dados Aplicada</sub>
+  <sub>CACDA UNIFEI · Ciência de Dados Aplicada</sub>
 </div>
