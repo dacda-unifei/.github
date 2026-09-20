@@ -4,10 +4,10 @@
   <p>Representação estudantil · integração acadêmica · transparência</p>
 
   <p>
-    <a href="https://github.com/cacda-unifei/cacda-documentos">
+    <a href="https://github.com/dacda-unifei/dacda-documentos">
       <img src="https://img.shields.io/badge/Documentos-institucionais-2457A6?style=for-the-badge&logo=github&logoColor=white" alt="Documentos institucionais">
     </a>
-    <a href="https://github.com/cacda-unifei">
+    <a href="https://github.com/dacda-unifei">
       <img src="https://img.shields.io/badge/GitHub-cacda--unifei-181717?style=for-the-badge&logo=github&logoColor=white" alt="Organização CACDA UNIFEI no GitHub">
     </a>
   </p>
@@ -32,13 +32,13 @@ Este espaço reúne documentos, projetos e informações públicas do centro aca
 
 ## Repositórios
 
-### 📚 [`cacda-documentos`](https://github.com/cacda-unifei/cacda-documentos)
+### 📚 [`cacda-documentos`](https://github.com/dacda-unifei/dacda-documentos)
 
 Documentos institucionais públicos, incluindo estatuto, atas, regimentos e materiais relacionados ao CACDA.
 
 ## Como acompanhar
 
-- Consulte os [documentos institucionais](https://github.com/cacda-unifei/cacda-documentos).
+- Consulte os [documentos institucionais](https://github.com/dacda-unifei/dacda-documentos).
 - Acompanhe os repositórios públicos desta organização.
 - Abra uma issue no repositório adequado para registrar uma sugestão, dúvida ou proposta.
 
